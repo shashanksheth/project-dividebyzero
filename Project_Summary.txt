@@ -1,0 +1,39 @@
+Project Title: A Tale of Two Cities: Comparing NYC to SF
+
+Team Members: Amber An, Mrudula Chinta, Shashank Sheth, Trey Warren Elson
+
+Project Description:
+•	Compare median rent and $/sf of dwelling units in each city
+	o	Factor in ‘like’ apartments (similar amenities and surrounding neighborhood)
+	o	Compare the sale price versus rent price of condos 
+
+Research Questions:
+•	How have rents changed over time? 
+•	How do prices affect the demographics? 
+	o	Correlation or causation? Gentrification?  
+•	Does it seem like there is a more preferred unit type in each city?
+•	How does restaurant/educational building density affect prices in each neighborhood?
+	o	Correlation or causation? Chicken or the egg?
+•	How do walkscores affect prices in each neighborhood?
+	o	Correlation or causation? 
+•	Are there comparable neighborhoods between SF and NYC?
+
+Datasets to be used: 
+	Zillow API: https://www.zillow.com/howto/api/APIOverview.htm
+	Walkscore API : https://www.walkscore.com/professional/api.php
+	Yelp Fusion
+	Google Maps
+	SchoolDigger API: https://developer.schooldigger.com/
+	Census 
+	Data.gov https://www.data.gov/
+	Community API https://developer.nytimes.com/docs/community-api-product/1/overview
+( this will help us get useful insights about a specific region,but need to infer such local data as income, education, crime)
+	
+Rough breakdown of tasks: 
+•	Use Pandas to read the data
+•	Clean and reformat the data
+•	Attempt to merge all datasets that can be easily grouped by similar indices
+•	Quantitative analysis
+•	Create plots to better describe the data
+•	Qualitative analysis
+
