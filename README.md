@@ -3,5 +3,4 @@
   </h1>
   
 It was the best project ever.
-
-# project-dividebyzero
+project-dividebyzero
