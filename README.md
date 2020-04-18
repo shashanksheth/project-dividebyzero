@@ -3,4 +3,5 @@
   </h1>
   
 It was the best project ever.
-project-dividebyzero
+<br>
+<p>project-dividebyzero had 4 members: Trey, Mrudula, Anne, and Shashank.
